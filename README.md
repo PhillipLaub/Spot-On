@@ -1,6 +1,6 @@
 # Spot On
 
-Link to Deployed App - (https://spot-on-app.herokuapp.com/)
+## Link to Deployed App - (https://spot-on-app.herokuapp.com/)
 
 Spot On is a web application where users can report information about lost animals as well as strays that have been found with the hope that the animals and their respective owners can reunite. 
 
